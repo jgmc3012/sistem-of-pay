@@ -1,23 +1,23 @@
 {
-  "name": "sistem-of-pay",
-  "version": "1.0.0",
-  "description": "Sistema de pagos por suscripcion",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jgmc3012/sistem-of-pay.git"
-  },
-  "keywords": [
-    "pay",
-    "suscription"
-  ],
-  "author": "Jesus Millan (jgmc3012)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jgmc3012/sistem-of-pay/issues"
-  },
-  "homepage": "https://github.com/jgmc3012/sistem-of-pay#readme"
+    "name": "sistem-of-pay",
+    "version": "1.0.0",
+    "description": "Sistema de pagos por suscripcion",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jgmc3012/sistem-of-pay.git"
+    },
+    "keywords": [
+        "pay",
+        "suscription"
+    ],
+    "author": "Jesus Millan (jgmc3012)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jgmc3012/sistem-of-pay/issues"
+    },
+    "homepage": "https://github.com/jgmc3012/sistem-of-pay#readme"
 }
