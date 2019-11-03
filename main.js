@@ -1,1 +1,0 @@
-const transfer = require('./Models/Pays/Transfer').transfer

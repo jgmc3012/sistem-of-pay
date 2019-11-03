@@ -19,5 +19,8 @@
     "bugs": {
         "url": "https://github.com/jgmc3012/sistem-of-pay/issues"
     },
-    "homepage": "https://github.com/jgmc3012/sistem-of-pay#readme"
+    "homepage": "https://github.com/jgmc3012/sistem-of-pay#readme",
+    "dependencies": {
+        "yargs": "^14.2.0"
+    }
 }
